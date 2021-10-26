@@ -30,4 +30,11 @@ Para realização do projeto, foi necessário pesquisar e analisar possíveis ne
 
 <h4 id="parceria"> Parceria </h4>
 
-O parceiro no qual aceitou a proposta, foi o **Clube Piratini**, que é um antigo e conceituado clube na cidade de Charqueadas. Possui membros de diversas cidades da região, e
+O parceiro no qual aceitou a proposta, foi o **Clube Piratini**, um antigo e conceituado clube na cidade de Charqueadas. Possui membros de diversas cidades da região carbonífera, e está atualmente em crescimento.
+
+<h4 id="escopo"> Escopo </h4>
+
+Após o primeiro contato com o clube, foi apresentado um problema de controle de acesso no clube, devido a falta de uma forma de identificação na entrada, onde havia entrada irregular de pessoas, como por exemplo: assumir ser algum sócio ou dependente.
+
+Com base nisso, o escopo do projeto, se deu em criar um sistema de identificação para o controle de acesso de sócios no clube, através de um cartão virtual.
+
