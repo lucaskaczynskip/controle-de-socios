@@ -1,8 +1,12 @@
 # Controle de sócios
+Sumário:
+
 - [Sobre](#sobre)
 
   - [IF Mais Empreendedor](#if-mais-empreendedor)
   - [Controle de Sócios](#controle-de-socios)
+    - [Parceria](#parceria)
+    - [Escopo](#escopo)
 
 - [Tecnologias utilizadas](#tecnologias)
 
@@ -21,3 +25,9 @@ Este projeto foi desenvolvido durante o programa [IF Mais Empreendedor](https://
 
 
 <h3 id="controle-de-socios"> Controle de Sócios </h3>
+
+Para realização do projeto, foi necessário pesquisar e analisar possíveis negócios interessados na proposta, essa pesquisa se deu na cidade de Charqueadas, no Rio Grande do Sul. 
+
+<h4 id="parceria"> Parceria </h4>
+
+O parceiro no qual aceitou a proposta, foi o **Clube Piratini**, que é um antigo e conceituado clube na cidade de Charqueadas. Possui membros de diversas cidades da região, e
