@@ -1,10 +1,12 @@
 # Controle de sócios
 - [Sobre](#sobre)
+
   - [IF Mais Empreendedor](#if-mais-empreendedor)
   - [Controle de Sócios](#controle-de-socios)
+
 - [Tecnologias utilizadas](#tecnologias)
 
-<hr>
+  
 
 ## Sobre
 
