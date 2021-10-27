@@ -14,8 +14,6 @@ Sumário:
 
 ## Sobre
 
-<p> Sobre a iniciativa e projeto: </p>
-
 <h3 id="if-mais-empreendedor"> IF Mais Empreendedor </h3>
 
 ![Logo](https://iffarroupilha.edu.br/images/pequena.jpg)
