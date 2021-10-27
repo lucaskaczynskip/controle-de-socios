@@ -51,3 +51,18 @@ Para o desenvolvimento da aplicação, foi utilizado o [Google Apps Script](http
 > **Google**
 
 Tal ferramenta permite a criação de sistemas de gestão de maneira gratuita, pois basta programar o apps script para que as planilhas e demais ferramentas, possuam o comportamento de uma ERP. Deste jeito, torna-se sustentavel para o negócio, pois elimina as necessidades de instalar e manter uma infraestrutura para o funcionamento do negócio.
+
+<h3> Ambiente </h3>
+
+O apps script é uma plataforma Javascript na nuvem que permite a integração de diversas ferramentas Google. Acessada atráves da nuvem, diversos projetos podem ser criados, cada um com arquivos bases diferentes e/ou funções dintintas. O ambiente pode ser acessado em qualquer navegador web pelo [link](https://script.google.com/home/my). Os scripts utilizados no sistema podem ser encontrados na pasta `Source` .
+
+<h3 id="funcionamento">Como funciona</h3>
+
+[<img src="https://img.youtube.com/vi/nIQRtZXVX5M/maxresdefault.jpg" width="%">](https://youtu.be/nIQRtZXVX5M)
+
+
+
+Quando é realizado uma requisição pelo formulário, o sistema envia para um dos e-mails registrados na planilha um arquivo PDF, que é gerado no Google docs, para o Gmail associado ao CPF do sócio. Necessitando de um registro prévio no sistema, conforme demonstrado no vídeo.
+
+Os sócios são adicinados na planilha por outro formulário que é acessado apenas pelo administrador (conta Google com acesso ao projeto)
+
