@@ -39,3 +39,14 @@ Com base nisso, o escopo do projeto, se deu em criar um sistema de identificaç�
 Segue abaixo um exemplo do cartão:
 
 ![IMG](https://cdn.discordapp.com/attachments/869191843311656990/890307194497663066/unknown.png)
+
+
+
+<h2 id="tecnologias"> Tecnologias utilizadas </h2>
+
+Para o desenvolvimento da aplicação, foi utilizado o [Google Apps Script](https://developers.google.com/apps-script), uma tecnologia do Google, que permite a interação, criação de funções e automatização do Workspace.
+
+> O Apps Script é a única plataforma com poucos códigos que facilita o desenvolvimento de soluções empresariais para integrar, automatizar e ampliar os recursos no Google Workspace. Com o Apps Script, os usuários empresariais podem desenvolver soluções personalizadas no Google Workspace, mesmo sem experiência profissional em desenvolvimento. Esse recurso está disponível para todas as pessoas que têm uma conta do Gmail. 
+>
+> [^Google]: 
+
