@@ -8,7 +8,7 @@ Sumário:
     - [Parceria](#parceria)
     - [Escopo](#escopo)
 
-- [Tecnologias utilizadas](#tecnologias)
+- [Tecnologias](#tecnologias)
 
   
 
@@ -42,7 +42,7 @@ Segue abaixo um exemplo do cartão:
 
 
 
-<h2 id="tecnologias"> Tecnologias utilizadas </h2>
+<h2 id="tecnologias"> Tecnologias </h2>
 
 Para o desenvolvimento da aplicação, foi utilizado o [Google Apps Script](https://developers.google.com/apps-script), uma tecnologia do Google, que permite a interação, criação de funções e automatização do Workspace.
 
@@ -50,3 +50,4 @@ Para o desenvolvimento da aplicação, foi utilizado o [Google Apps Script](http
 >
 > **Google**
 
+Tal ferramenta permite a criação de sistemas de gestão de maneira gratuita, pois basta programar o apps script para que as planilhas e demais ferramentas, possuam o comportamento de uma ERP. Deste jeito, torna-se sustentavel para o negócio, pois elimina as necessidades de instalar e manter uma infraestrutura para o funcionamento do negócio.
