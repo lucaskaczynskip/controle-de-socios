@@ -58,7 +58,7 @@ O apps script é uma plataforma Javascript na nuvem que permite a integração d
 
 <h3 id="funcionamento">Como funciona</h3>
 
-[<img src="https://img.youtube.com/vi/nIQRtZXVX5M/maxresdefault.jpg" width="%">](https://youtu.be/nIQRtZXVX5M)
+[<img src="https://img.youtube.com/vi/nIQRtZXVX5M/maxresdefault.jpg" width="%" target="_blank">](https://youtu.be/nIQRtZXVX5M)
 
 
 
