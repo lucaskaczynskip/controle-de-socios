@@ -48,5 +48,5 @@ Para o desenvolvimento da aplicação, foi utilizado o [Google Apps Script](http
 
 > O Apps Script é a única plataforma com poucos códigos que facilita o desenvolvimento de soluções empresariais para integrar, automatizar e ampliar os recursos no Google Workspace. Com o Apps Script, os usuários empresariais podem desenvolver soluções personalizadas no Google Workspace, mesmo sem experiência profissional em desenvolvimento. Esse recurso está disponível para todas as pessoas que têm uma conta do Gmail. 
 >
-> [^Google]: 
+> **Google**
 
