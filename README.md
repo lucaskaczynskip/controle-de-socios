@@ -10,6 +10,10 @@ Sumário:
 
 - [Tecnologias](#tecnologias)
 
+  - [Ambiente](#ambiente)
+
+- [Funcionamento](#funcionamento)
+
   
 
 ## Sobre
@@ -52,7 +56,7 @@ Para o desenvolvimento da aplicação, foi utilizado o [Google Apps Script](http
 
 Tal ferramenta permite a criação de sistemas de gestão de maneira gratuita, pois basta programar o apps script para que as planilhas e demais ferramentas, possuam o comportamento de uma ERP. Deste jeito, torna-se sustentavel para o negócio, pois elimina as necessidades de instalar e manter uma infraestrutura para o funcionamento do negócio.
 
-<h3> Ambiente </h3>
+<h3 id="ambiente"> Ambiente </h3>
 
 O apps script é uma plataforma Javascript na nuvem que permite a integração de diversas ferramentas Google. Acessada atráves da nuvem, diversos projetos podem ser criados, cada um com arquivos bases diferentes e/ou funções dintintas. O ambiente pode ser acessado em qualquer navegador web pelo [link](https://script.google.com/home/my). Os scripts utilizados no sistema podem ser encontrados na pasta `Source` . 
 
