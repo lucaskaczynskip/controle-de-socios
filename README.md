@@ -15,6 +15,7 @@ Sumário:
 - [Funcionamento](#funcionamento)
 
   
+> Andre del Mestre
 
 ## Sobre
 
