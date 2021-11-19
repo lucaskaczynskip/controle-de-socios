@@ -21,7 +21,7 @@ Sumário:
 
 <h3 id="if-mais-empreendedor"> IF Mais Empreendedor </h3>
 
-![Logo](https://iffarroupilha.edu.br/images/pequena.jpg)
+![Logo](./public/images/ifm-image.jpeg)
 
 Este projeto foi desenvolvido durante o programa [IF Mais Empreendedor](https://portal.ifsuldeminas.edu.br/index.php/noticias-proex/4175-if-mais-empreendedor-nacional-2021), iniciativa do Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas. O programa visa ajudar empresas e empreendedores afetados negativamente devido a pandemia do COVID-19, com isso os bolsistas são estimulados, sob orientação, para planejar e realizar atividades que estímulem o crescimento de negócios que aderiram ao programa, desenvolvendo assim o perfil requisitado pelo mercado nos alunos, e desenvolvendo a economia de suas respectivas regiões.
 
@@ -43,7 +43,7 @@ Com base nisso, o escopo do projeto, se deu em criar um sistema de identificaç�
 
 Segue abaixo um exemplo do cartão:
 
-![IMG](https://cdn.discordapp.com/attachments/869191843311656990/890307194497663066/unknown.png)
+![IMG](./public/images/cartao.png)
 
 
 
