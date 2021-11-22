@@ -14,9 +14,6 @@ Sumário:
 
 - [Funcionamento](#funcionamento)
 
-  
-> Andre del Mestre
-
 ## Sobre
 
 <h3 id="if-mais-empreendedor"> IF Mais Empreendedor </h3>
@@ -73,7 +70,11 @@ Abaixo segue um vídeo de apresentação da proposta:
 
 Quando é realizado uma requisição pelo formulário, o sistema envia para um dos e-mails registrados na planilha um arquivo PDF, que é gerado no Google docs, para o Gmail associado ao CPF do sócio. Necessitando de um registro prévio no sistema, conforme demonstrado no vídeo.
 
-Todo controle de inserção, delete, e update de dados são realizados através de planilhas.
+Todo controle de inserção, delete, e update de dados são realizados através de planilhas. Segue abaixo uma imagem que explica esse fluxo:
+
+
+
+![](./public/images/fluxo.png)
 
 
 
